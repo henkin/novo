@@ -1,5 +1,9 @@
-# civrecovery
-Project CivRecovery is civilization on a thumb drive, ready to help you get back on your feet after near-inihilation
+# novo
+Project `novo` is a solution to the following problem... 
+
+## Computers Are Nearly Useless..
+..without the content that is hosted on the internet. The current state of advanced technological civilization is due to the progress we've made in information exchange, storage, and processing. Language/stories/song -> drawing/writing -> books -> electromagnetics -> computing -> internet. Our future level of 'civilization' is strictly limited by a reliable ability to protect and make available to future generations the hard-won knowledge of all aspects of our existence. 
+The global COVID crisis and our society's dysmal response to it should make clear what a potential cascade of larger catastrophies could mean for the supply chains on which we rely. Imagine losing portions of the larger infrastructure 
 
 ### There is a major goal of phase 1 consists of the 
 - an open source Linux distribution and 
